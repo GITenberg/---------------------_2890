@@ -1,0 +1,32 @@
+_repo: '---------------------_2890'
+_version: 0.0.1
+alternative_title: Epopee to the Forgotten
+creator:
+  author:
+    agent_name: Vazov, Ivan Minchov
+    aliases:
+    - Vasov, Ivan
+    - Вазов, Иван Минчов
+    - Vazoff, Ivan
+    birthdate: 1850
+    deathdate: 1921
+    gutenberg_agent_id: '1064'
+    url: http://www.gutenberg.org/2009/agents/1064
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Ivan_Vazov
+    - http://bg.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%92%D0%B0%D0%B7%D0%BE%D0%B2
+description: ''
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2890'
+language: bg
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PG'
+- GITenberg
+title: Епопея на забравените
+url: http://www.gutenberg.org/ebooks/2890
